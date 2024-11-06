@@ -1,0 +1,1 @@
+This project aligns with the principles of Software Requirements Engineering (SRE) by defining clear requirements for the app's functionalities and ensuring they meet the needs of travelers. Through rigorous requirements analysis and specification, the project aims to deliver a reliable and user-centric travel solution.
